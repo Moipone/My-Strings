@@ -1,0 +1,58 @@
+c:\users\user\documents\visual studio 2010\Projects\money_talk\money_talk\bin\Debug\money_talk.exe
+c:\users\user\documents\visual studio 2010\Projects\money_talk\money_talk\bin\Debug\money_talk.pdb
+c:\users\user\documents\visual studio 2010\Projects\money_talk\money_talk\obj\x86\Debug\MainWindow.baml
+c:\users\user\documents\visual studio 2010\Projects\money_talk\money_talk\obj\x86\Debug\MainWindow.g.cs
+c:\users\user\documents\visual studio 2010\Projects\money_talk\money_talk\obj\x86\Debug\App.g.cs
+c:\users\user\documents\visual studio 2010\Projects\money_talk\money_talk\obj\x86\Debug\money_talk_MarkupCompile.cache
+c:\users\user\documents\visual studio 2010\Projects\money_talk\money_talk\obj\x86\Debug\money_talk.g.resources
+c:\users\user\documents\visual studio 2010\Projects\money_talk\money_talk\obj\x86\Debug\money_talk.Properties.Resources.resources
+c:\users\user\documents\visual studio 2010\Projects\money_talk\money_talk\obj\x86\Debug\money_talk.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2010\Projects\money_talk\money_talk\obj\x86\Debug\money_talk.exe
+c:\users\user\documents\visual studio 2010\Projects\money_talk\money_talk\obj\x86\Debug\money_talk.pdb
+c:\users\user\documents\visual studio 2010\Projects\money_talk\money_talk\obj\x86\Debug\money_talk.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2010\Projects\money_talk\money_talk\bin\Debug\ThinkLib.dll
+c:\users\user\documents\visual studio 2010\Projects\money_talk\money_talk\bin\Debug\ThinkLib.pdb
+c:\users\user\documents\visual studio 2010\Projects\money_talk\money_talk\bin\Debug\ThinkLib.xml
+C:\Users\user\Documents\Visual Studio 2010\Projects\money_talk_skeleton\money_talk\obj\x86\Debug\money_talk.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\money_talk_skeleton\money_talk\obj\x86\Debug\money_talk.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\money_talk_skeleton\money_talk\bin\Debug\money_talk.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\money_talk_skeleton\money_talk\bin\Debug\money_talk.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\money_talk_skeleton\money_talk\bin\Debug\ThinkLib.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\money_talk_skeleton\money_talk\bin\Debug\ThinkLib.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\money_talk_skeleton\money_talk\bin\Debug\ThinkLib.xml
+C:\Users\user\Documents\Visual Studio 2010\Projects\money_talk_skeleton\money_talk\obj\x86\Debug\money_talk.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\money_talk_skeleton\money_talk\obj\x86\Debug\MainWindow.baml
+C:\Users\user\Documents\Visual Studio 2010\Projects\money_talk_skeleton\money_talk\obj\x86\Debug\MainWindow.g.cs
+C:\Users\user\Documents\Visual Studio 2010\Projects\money_talk_skeleton\money_talk\obj\x86\Debug\App.g.cs
+C:\Users\user\Documents\Visual Studio 2010\Projects\money_talk_skeleton\money_talk\obj\x86\Debug\money_talk_MarkupCompile.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\money_talk_skeleton\money_talk\obj\x86\Debug\money_talk.g.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\money_talk_skeleton\money_talk\obj\x86\Debug\money_talk.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\money_talk_skeleton\money_talk\obj\x86\Debug\money_talk.csproj.GenerateResource.Cache
+C:\Users\G16T1539\Downloads\money_talk_skeleton\money_talk\obj\x86\Debug\money_talk.exe
+C:\Users\G16T1539\Downloads\money_talk_skeleton\money_talk\obj\x86\Debug\money_talk.pdb
+C:\Users\G16T1539\Downloads\money_talk_skeleton\money_talk\bin\Debug\money_talk.exe
+C:\Users\G16T1539\Downloads\money_talk_skeleton\money_talk\bin\Debug\money_talk.pdb
+C:\Users\G16T1539\Downloads\money_talk_skeleton\money_talk\bin\Debug\ThinkLib.pdb
+C:\Users\G16T1539\Downloads\money_talk_skeleton\money_talk\bin\Debug\ThinkLib.xml
+C:\Users\G16T1539\Downloads\money_talk_skeleton\money_talk\obj\x86\Debug\money_talk.csprojResolveAssemblyReference.cache
+C:\Users\G16T1539\Downloads\money_talk_skeleton\money_talk\obj\x86\Debug\MainWindow.baml
+C:\Users\G16T1539\Downloads\money_talk_skeleton\money_talk\obj\x86\Debug\MainWindow.g.cs
+C:\Users\G16T1539\Downloads\money_talk_skeleton\money_talk\obj\x86\Debug\App.g.cs
+C:\Users\G16T1539\Downloads\money_talk_skeleton\money_talk\obj\x86\Debug\money_talk_MarkupCompile.cache
+C:\Users\G16T1539\Downloads\money_talk_skeleton\money_talk\obj\x86\Debug\money_talk.g.resources
+C:\Users\G16T1539\Downloads\money_talk_skeleton\money_talk\obj\x86\Debug\money_talk.Properties.Resources.resources
+C:\Users\G16T1539\Downloads\money_talk_skeleton\money_talk\obj\x86\Debug\money_talk.csproj.GenerateResource.Cache
+\\ict.ru.ac.za\DFS\UGHomes\g16T1539\Desktop\Pracs 102\money_talk_skeleton\money_talk\obj\x86\Debug\money_talk.exe
+\\ict.ru.ac.za\DFS\UGHomes\g16T1539\Desktop\Pracs 102\money_talk_skeleton\money_talk\obj\x86\Debug\money_talk.pdb
+\\ict.ru.ac.za\DFS\UGHomes\g16T1539\Desktop\Pracs 102\money_talk_skeleton\money_talk\bin\Debug\money_talk.exe
+\\ict.ru.ac.za\DFS\UGHomes\g16T1539\Desktop\Pracs 102\money_talk_skeleton\money_talk\bin\Debug\money_talk.pdb
+\\ict.ru.ac.za\DFS\UGHomes\g16T1539\Desktop\Pracs 102\money_talk_skeleton\money_talk\bin\Debug\ThinkLib.pdb
+\\ict.ru.ac.za\DFS\UGHomes\g16T1539\Desktop\Pracs 102\money_talk_skeleton\money_talk\bin\Debug\ThinkLib.xml
+\\ict.ru.ac.za\DFS\UGHomes\g16T1539\Desktop\Pracs 102\money_talk_skeleton\money_talk\obj\x86\Debug\money_talk.csprojResolveAssemblyReference.cache
+\\ict.ru.ac.za\DFS\UGHomes\g16T1539\Desktop\Pracs 102\money_talk_skeleton\money_talk\obj\x86\Debug\MainWindow.baml
+\\ict.ru.ac.za\DFS\UGHomes\g16T1539\Desktop\Pracs 102\money_talk_skeleton\money_talk\obj\x86\Debug\MainWindow.g.cs
+\\ict.ru.ac.za\DFS\UGHomes\g16T1539\Desktop\Pracs 102\money_talk_skeleton\money_talk\obj\x86\Debug\App.g.cs
+\\ict.ru.ac.za\DFS\UGHomes\g16T1539\Desktop\Pracs 102\money_talk_skeleton\money_talk\obj\x86\Debug\money_talk_MarkupCompile.cache
+\\ict.ru.ac.za\DFS\UGHomes\g16T1539\Desktop\Pracs 102\money_talk_skeleton\money_talk\obj\x86\Debug\money_talk.g.resources
+\\ict.ru.ac.za\DFS\UGHomes\g16T1539\Desktop\Pracs 102\money_talk_skeleton\money_talk\obj\x86\Debug\money_talk.Properties.Resources.resources
+\\ict.ru.ac.za\DFS\UGHomes\g16T1539\Desktop\Pracs 102\money_talk_skeleton\money_talk\obj\x86\Debug\money_talk.csproj.GenerateResource.Cache
